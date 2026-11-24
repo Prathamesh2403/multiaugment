@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.6+-blue.svg" alt="Python 3.6+"/>
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
-  <img src="https://img.shields.io/badge/modalities-text_image_audio-orange" alt="Modalities"/>
 </p>
 
 ---
