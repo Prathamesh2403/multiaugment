@@ -1,0 +1,51 @@
+# ── Virtual environment ───────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Python cache & bytecode ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# ── Distribution / packaging ──────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+MANIFEST
+.eggs/
+
+# ── Project-specific: internal docs not for public repo ──────────────────────
+HOW_IT_WORKS.md
+
+# ── OS junk ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE / editor folders ──────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Logs & temp files ─────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+
+# ── Jupyter Notebooks (if any) ───────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Environment variable files ────────────────────────────────────────────────
+.env
+.env.local
+
+# ── pip ───────────────────────────────────────────────────────────────────────
+pip-log.txt
+pip-delete-this-directory.txt
